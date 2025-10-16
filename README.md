@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### Hi there 👋<br><br>
-I'm Anna — a master's student in Computer Science at the University of Gdańsk, passionate about data analysis, machine learning, and making cool stuff with code. <br><br>- 🔭 I’m currently working on: a web app that uses Retrieval-Augmented Generation (RAG) to create custom quizzes from uploaded documents.<br>- 🤝 I’m looking to collaborate on: open-source projects related to NLP, LLMs, web applications, and many more.<br>- 🌱 <br><br>I enjoy taking care of my plants, binge-watching *The X-Files*, and playing Stardew Valley.<br><br>Let’s build something great together! 🚀<br>
+I'm Anna — a master's student in Computer Science at the University of Gdańsk, passionate about data analysis, machine learning, and making cool stuff with code. <br><br>🤝 I’m looking to collaborate on: open-source projects related to NLP, LLMs, web applications, and many more. <br><br>I enjoy taking care of my plants, binge-watching *The X-Files*, and playing Stardew Valley.<br><br>Let’s build something great together! 🚀<br>
 
 
 ## 🌐 Socials:
